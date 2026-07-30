@@ -23,6 +23,8 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shikha18Shukla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_Shikha18Shukla&theme=react-dark&hide_border=true&area=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shikha18Shukla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
