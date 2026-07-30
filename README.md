@@ -23,7 +23,7 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shikha18Shukla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_Shikha18Shukla&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shikha18Shukla&theme=react-dark&hide_border=true&area=true)
 
 ## 🎮 Pac-Man Contribution Graph
 
