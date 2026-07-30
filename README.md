@@ -25,6 +25,14 @@
 
 [Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_Shikha18Shukla&theme=react-dark&hide_border=true&area=true)
 
+## 🎮 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shikha18Shukla/Shikha18Shukla/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shikha18Shukla/Shikha18Shukla/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shikha18Shukla/Shikha18Shukla/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shikha18Shukla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
