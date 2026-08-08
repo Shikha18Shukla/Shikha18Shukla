@@ -1,14 +1,28 @@
-# Hi 👋 I'm Shikha Shukla
+<h1>Hi 👋 I'm Shikha Shukla</h1>
 
-🎓  Final Year Computer Science Student
+<table>
+<tr>
+<td width="60%" valign="top">
 
-🤖 Passionate about Solving Problems with Human logic while enhancing solutions using AI .
+🎓 Final Year Computer Science Student
 
-💻 Building intelligent applications using Python, Java, TensorFlow and PyTorch
+🤖 Passionate about solving problems with human logic while enhancing solutions using AI.
 
-🌱 Currently exploring Large Language Models, Deep Learning and Backend Development while strengthing my DSA problem solving skils.
+💻 Building intelligent applications using Python, Java, TensorFlow and PyTorch.
 
-🚀 Open to internships, collaborations and exciting projects
+🌱 Currently exploring Large Language Models, Deep Learning and Backend Development while strengthening my DSA problem-solving skills.
+
+🚀 Open to internships, collaborations and exciting projects.
+
+</td>
+
+<td width="40%" align="center">
+
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/499a88dd-1291-4318-b077-438d66e31140">
+
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
