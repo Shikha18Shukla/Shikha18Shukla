@@ -71,6 +71,34 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shikha18Shukla&theme=react-dark&hide_border=true&area=true)
 
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<a href="https://github.com/Shikha18Shukla">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="120">
+</a>
+
+<a href="https://github.com/Shikha18Shukla">
+  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" alt="Starstruck" width="120">
+</a>
+
+<a href="https://github.com/Shikha18Shukla">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" width="120">
+</a>
+
+<a href="https://github.com/Shikha18Shukla">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="120">
+</a>
+
+<a href="https://github.com/Shikha18Shukla">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="120">
+</a>
+
+</p>
+
+
 ## 🎮 Pac-Man Contribution Graph
 
 <picture>
@@ -79,15 +107,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Shikha18Shukla/Shikha18Shukla/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shikha18Shukla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 </p>
-
 
 
 
