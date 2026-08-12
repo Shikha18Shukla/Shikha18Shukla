@@ -61,21 +61,32 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shikha18Shukla&limit=5&theme=dark&combine_all_yearly_contributions=true)
-## 🚀 Featured Projects
+## 🏅 ELUSOC 2026 Achievements
 
 <p align="center">
 
-<a href="https://github.com/Shikha18Shukla/RepoName">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shikha18Shukla&repo=Aarini&theme=tokyonight" />
+<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" alt="ELUSOC Spawnling Badge" width="140">
 </a>
 
-<a href="https://github.com/Shikha18Shukla/AnotherRepo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shikha18Shukla&repo=Python-Development-Internship-Cognifyz-&theme=tokyonight" />
+<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" alt="ELUSOC Stone Coder Badge" width="140">
+</a>
+
+<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" alt="ELUSOC Iron Developer Badge" width="140">
 </a>
 
 </p>
+
+<p align="center">
+
+🏆 <b>ELUSOC 2026</b> • 220 Points • 12 Merged PRs • Global Rank #37
+
+</p>
+
+
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shikha18Shukla&icon=0&color=0)](https://visitcount.itsvg.in)
