@@ -38,6 +38,30 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)<br>
 
 
+## 🏅 ELUSOC 2026 Achievements
+
+<p align="center">
+
+<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" alt="ELUSOC Spawnling Badge" width="140">
+</a>
+
+<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" alt="ELUSOC Stone Coder Badge" width="140">
+</a>
+
+<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" alt="ELUSOC Iron Developer Badge" width="140">
+</a>
+
+</p>
+
+<p align="center">
+
+🏆 <b>ELUSOC 2026</b> • 220 Points • 12 Merged PRs • Global Rank #37
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shikha18Shukla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
@@ -61,27 +85,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏅 ELUSOC 2026 Achievements
-
-<p align="center">
-
-<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/spawnling.png" alt="ELUSOC Spawnling Badge" width="140">
-</a>
-
-<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/stone_coder.png" alt="ELUSOC Stone Coder Badge" width="140">
-</a>
-
-<a href="https://www.edulinkup.dev/u/shikhashuklaknice">
-  <img src="https://www.edulinkup.dev/elusoc/images/ticket/iron_developer.png" alt="ELUSOC Iron Developer Badge" width="140">
-</a>
-
-</p>
-
-<p align="center">
-
-🏆 <b>ELUSOC 2026</b> • 220 Points • 12 Merged PRs • Global Rank #37
 
 </p>
 
