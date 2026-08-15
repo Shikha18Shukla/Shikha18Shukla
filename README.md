@@ -95,6 +95,9 @@
 <a href="https://github.com/Shikha18Shukla">
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="120">
 </a>
+<a href="https://github.com/Shikha18Shukla">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="120">
+</a>
 
 </p>
 
