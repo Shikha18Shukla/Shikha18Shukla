@@ -1,5 +1,5 @@
 ![logo](https://github.com/Shikha18Shukla/Shikha18Shukla/blob/main/github%20banner.png.png)
-<h1>Hi 👋 I'm Shikha Shukla</h1>
+<h1>Hi 👋</h1>
 
 <table>
 <tr>
